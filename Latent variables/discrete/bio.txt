@@ -1,0 +1,8 @@
+Hi everyone, my name is Brian and I am an incoming DPhil student working with Chris Lintott and Steve Croft.
+I will be focusing on anomaly detection (or better put, looking for the most unusual and sometimes, interesting objects) with the Vera C. Rubin Observatory.
+More broadly, I am interested in how machine learning techniques can help astronomers with ever increasing volumes of data produced from large sky surveys.
+I previously worked with Breakthrough Listen as a summer student in the department and I am excited that I will be able to work with Breakthrough during the course of my DPhil.
+Looking forward to chatting soon at coffee and cake.
+
+All the best,
+Brian.
